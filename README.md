@@ -59,7 +59,7 @@ Soy Profesor de Informática y Programador con más de 30 años de experiencia e
 
 ### 📈 Estadísticas de GitHub:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=walter-randazzo&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=wwrandazzo&show_icons=true&theme=radical)
 
 ---
 
